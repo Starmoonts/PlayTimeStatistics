@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "玩家在线时间统计",
+    "authors": [
+      "Starmoonys"
+    ],
+    "version": "1.0",
+    "minecraft_version": "1.21",
+    "supported_formats": {
+      "min_inclusive": 48,
+      "max_inclusive": 61
+    }
+  }
+}
