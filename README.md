@@ -1,6 +1,6 @@
 # 简介
 PlayTimeStatistics是一个可以统计玩家在线时长的数据包，并在Tab栏和玩家名称下方显示
-﻿
+﻿<br>
 "PlayTimeStatistics is a data pack that tracks players' online playtime and displays it in the Tab list and below the player’s name."
 ﻿
 ## 指令
