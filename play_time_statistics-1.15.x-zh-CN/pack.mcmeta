@@ -1,0 +1,20 @@
+{
+  "pack": {
+    "pack_format": 5,
+    "description": [
+      {
+        "translate": "Player Online Time Statistics",
+        "color":"green",
+        "bold":true
+      },
+      {
+        "translate": "\n"
+      },
+      {
+        "translate": "by Starmoonts",
+        "color":"gray",
+        "bold":true
+      }
+    ]
+  }
+}
