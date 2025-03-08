@@ -1,0 +1,35 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": [
+      {
+        "translate": "Player Online Time Statistics",
+        "color":"green",
+        "bold":true
+      },
+      {
+        "translate": "\n"
+      },
+      {
+        "translate": "by Starmoonts",
+        "color":"gray",
+        "bold":true
+      }
+    ],
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 41
+    }
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {
+          "min_inclusive": 16,
+          "max_inclusive": 41
+        },
+        "directory": "1-20-2_1-20-6"
+      }
+    ]
+  }
+}
