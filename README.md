@@ -40,7 +40,7 @@ PlayTimeStatistics是一个可以统计玩家在线时长的数据包，并在Ta
 - Hide the display below the player’s name:
 - /scoreboard objectives setdisplay belowName
 
-**1.13-1.7.1**
+**1.13-1.17.1**
 - 玩家名称下方显示 [分钟]：
 - Display [minutes] below the player’s name:
 - /scoreboard objectives setdisplay belowName persist
