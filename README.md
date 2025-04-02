@@ -53,4 +53,5 @@ PlayTimeStatistics是一个可以统计玩家在线时长的数据包，并在Ta
 - Hide the display below the player’s name:
 - /scoreboard objectives setdisplay belowName
 
-![Preview](https://cdn.modrinth.com/data/cached_images/7a768f3cf8a6d4c67feb9bb1011bf124dd0d8463.jpeg)
+![Preview](https://cdn.modrinth.com/data/cached_images/6247321cc071a72dcf6838997b0ee00476d702d6.jpeg)
+![Preview](https://cdn.modrinth.com/data/cached_images/2833f9f0ac2a0cb30a2ec49449e33b35c767be47.jpeg)
