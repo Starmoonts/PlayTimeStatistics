@@ -1,6 +1,8 @@
 {
   "pack": {
     "pack_format": 42,
+    "min_format": 42,
+    "max_format": 94,
     "description": [
       {
         "translate": "Player Online Time Statistics",
@@ -18,7 +20,7 @@
     ],
     "supported_formats": {
       "min_inclusive": 42,
-      "max_inclusive": 70
+      "max_inclusive": 94
     }
   }
 }
